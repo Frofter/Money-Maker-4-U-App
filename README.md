@@ -13,5 +13,7 @@
  Now paste it in the app
  
  Note: this is a very basic automated app to earn money
+ 
  Note 2: activate VPN before using this app to make maximum revenue
+ 
  Note 3: this app can make ads with your account, then the revenue will be generated in your unity account
